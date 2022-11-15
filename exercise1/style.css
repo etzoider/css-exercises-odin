@@ -1,20 +1,13 @@
 
-* {
-    font-size: 28px;
-    font-family: Helvetica, 'Times New Roman', sans-serif;
-    text-align: center;
 
+
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
 }
 
-.first {
-    background-color: black;
-    color: white;
-}
-
-.second {
-    background-color: yellow;
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
 
 }
-
-
-
